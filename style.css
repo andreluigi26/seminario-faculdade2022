@@ -1,0 +1,46 @@
+header {
+	background: #FFFFFF;
+	padding: 20px 0;
+}
+
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+.logo-principal{
+	width: 20%;
+}
+
+nav {
+	position: absolute;
+	top: 100px;
+	right: 0;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #00008B;
+	font-weight: bold;
+	font-size: 15px;
+	text-decoration: none;
+}
+
+nav a:hover{
+	color: #8B0000;
+}
+
+
+footer{
+	text-align: center;
+	padding: 60px 0;
+}
+.logo-rodape{
+	width: 11%;
+}
